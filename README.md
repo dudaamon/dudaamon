@@ -1,5 +1,4 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=ef95ae&fontColor=ef95ae&height=70&section=header" />
-
 <h1 align="center">🌸 Hi There! I'm Eduarda!</h1>
 I am a programming student and I'm in the first semester of Analysis and Systems Development. 💗<br>I'm taking the Back-End development course at Cubos Academy, and studying a lot to become a full-stack developer in the future! 🚀
 
