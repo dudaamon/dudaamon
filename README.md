@@ -8,8 +8,6 @@ I am a programming student and I'm in the first semester of Analysis and Systems
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eduardaamon)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/dudaamon) 
 [![E-mail](https://img.shields.io/badge/-Gmail-%23333.svg?&logo=gmail&logoColor=white)](mailto:eduardaamon16@gmail.com)
-<a href = "mailto:contatoeduardaamon16@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333.svg?&logo=gmail&logoColor=white" target="_blank"></a>
-
 
 ## 💻 Tech Stack:
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
