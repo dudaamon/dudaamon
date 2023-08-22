@@ -1,5 +1,5 @@
-<h1 align="center">💫 Hi There! I'm Eduarda!</h1>
-I am a programming student and I'm in the first semester of Analysis and Systems Development. 🥰<br>I'm taking the Back-End development course at Cubos Academy, and studying a lot to become a full-stack developer in the future! 🚀
+<h1 align="center">🌸 Hi There! I'm Eduarda!</h1>
+I am a programming student and I'm in the first semester of Analysis and Systems Development. 💗<br>I'm taking the Back-End development course at Cubos Academy, and studying a lot to become a full-stack developer in the future! 🚀
 
 
 <h2 align="left">🌐 Connect with me:</h2>
