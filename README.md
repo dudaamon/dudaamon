@@ -2,7 +2,7 @@
 I am a programming student and I'm in the first semester of Analysis and Systems Development. 💗<br>I'm taking the Back-End development course at Cubos Academy, and studying a lot to become a full-stack developer in the future! 🚀
 
 
-<h2 align="left">🌐 Connect with me:</h2>
+## 🌐 Connect with me:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dudsamon) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eduardaamon) 
 
