@@ -5,7 +5,7 @@ I am a programming student and I'm in the first semester of Analysis and Systems
 ## 🌐 Connect with me:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dudsamon) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eduardaamon)
-<a href = "mailto:contatoeduardaamon16@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%230077B5.svg?&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:contatoeduardaamon16@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333.svg?&logo=gmail&logoColor=white" target="_blank"></a>
 
 
 ## 💻 Tech Stack:
