@@ -14,4 +14,4 @@ I am a programming student and I'm in the first semester of Analysis and Systems
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=dudaamon&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dudaamon&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dudaamon&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
