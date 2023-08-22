@@ -4,7 +4,8 @@ I am a programming student and I'm in the first semester of Analysis and Systems
 
 ## 🌐 Connect with me:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dudsamon) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eduardaamon) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dudsamon) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eduardaamon)
+<a href = "mailto:contatoeduardaamon16@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 
 ## 💻 Tech Stack:
@@ -12,4 +13,4 @@ I am a programming student and I'm in the first semester of Analysis and Systems
 
 ## 📊 GitHub Stats:
 ![](<img width="42%" src="https://github-readme-stats.vercel.app/api?username=dudaamon&theme=monokai&hide_border=false&include_all_commits=true&count_private=true">)
-![](<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudaamon&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact">)
+![](<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudaamon"&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
