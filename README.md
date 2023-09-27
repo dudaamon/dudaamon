@@ -7,13 +7,13 @@ I am a programming student and I'm in the first semester of Analysis and Systems
 
 ## 🌐 Connect with me:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=CC6699)](https://instagram.com/dudsamon) 
+[![Instagram](https://img.shields.io/badge/Instagram-0D1117.svg?style=for-the-badgelogo=Instagram&logoColor=CC6699)](https://instagram.com/dudsamon) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=CC6699)](https://linkedin.com/in/eduardaamon)
 [![Discord](https://img.shields.io/badge/Discord-%23333.svg?logo=discord&logoColor=CC6699)](http://discord.com/users/dudaamon) 
 [![E-mail](https://img.shields.io/badge/Gmail-%23DD0031.svg?&logo=gmail&logoColor=CC6699)](mailto:eduardaamon16@gmail.com)
 
 ## 💻 I'm learning:
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=CC6699) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=CC6699) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 
 
 <div align="center">
