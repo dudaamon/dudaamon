@@ -23,5 +23,3 @@ I am a programming student and I'm in the first semester of Analysis and Systems
 
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=ef95ae&fontColor=ef95ae&height=70&section=footer&animation=fadeIn" />
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=ef95ae&fontColor=ef95ae&height=70&section=footer&animation=fadeIn" />
