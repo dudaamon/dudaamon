@@ -2,7 +2,7 @@
 <h1 align="center">🌸 Hi There! I'm Eduarda!</h1>
 <p align="left">
 <img align="right" alt="minha imagem" width="210" src="https://media.discordapp.net/attachments/929899914836738061/1105261250348339370/ffbb0050d9b94168ebe7dd8a7d09374a.gif">
-I am a programming student and I'm in the first semester of Analysis and Systems Development. 💗<br>I'm taking the Back-End development course at Cubos Academy, and studying a lot to become a full-stack developer in the future! 🚀
+I am a programming student and I'm at the college of Analysis and Systems Development. 💗<br>I'm taking the Back-End development course at Cubos Academy, and studying a lot to become a full-stack developer in the future! 🚀
 
 
 ## 🌐 Connect with me:
