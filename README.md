@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=ef95ae&fontColor=ef95ae&height=70&section=header"/>
-<h1 align="center"> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Hello, there! I'm Eduarda, welcome to my world</h1>
+<h1 align=left"> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Hello, there! I'm Eduarda, welcome to my world</h1>
 <p align="left">
 <img align="right" alt="minha imagem" width="210" src="https://media.discordapp.net/attachments/929899914836738061/1105261250348339370/ffbb0050d9b94168ebe7dd8a7d09374a.gif">
 I am a programming student and I'm at the college of Analysis and Systems Development. ⭐ <br>I've been focusing on back-end development, and studying a lot to become a full-stack developer in the future! 💗
