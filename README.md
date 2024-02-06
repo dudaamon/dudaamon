@@ -13,11 +13,10 @@ I am a programming student and I'm at the college of Analysis and Systems Develo
 [![E-mail](https://img.shields.io/badge/Gmail-%23DD0031.svg?&logo=gmail&logoColor=white)](mailto:eduardaamon16@gmail.com)
 
 ##   Language and Tools:
-<p align="center">
-  <a href="https://skillicons.dev">
+<div align="left">
     <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,postgres,git,express" />
-  </a>
-</p>
+</div>
+
 
 ###
 
