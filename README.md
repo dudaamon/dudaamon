@@ -1,8 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=ef95ae&fontColor=ef95ae&height=70&section=header"/>
 <h1 align=left"> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Hello, there! I'm Eduarda!</h1>
-<img align="right" alt="minha imagem" width="180" heigth="50" src="https://i.pinimg.com/originals/78/1c/ab/781cab67bf1d6adcbe6c5b942ae09fb6.gif">
-<p align="left"> 
-I'm a programming student and I'm majoring in Analysis and Systems Development.  <br>My focus is on back-end development, and my main goal is to become a full-stack developer in the future! ⭐ </p>
+<p align="left">
+<img align="right" alt="minha imagem" width="180" src="https://i.pinimg.com/originals/5e/9e/55/5e9e55d066a382dbffe2e7551ed383dc.gif">
+I'm a programming student and I'm majoring in Analysis and Systems Development. <br>My focus is on back-end development, and my main goal is to become a full-stack developer in the future! ⭐ 
 
 ##   Connect with me:
 
