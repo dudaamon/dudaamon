@@ -3,6 +3,7 @@
 <p align="left">
 <img align="right" alt="minha imagem" width="210" src="https://i.pinimg.com/originals/bf/5a/74/bf5a7484d8584ef015d726ea51509be7.gif">
 I'm a programming student and I'm majoring in Analysis and Systems Development. <br>My focus is on back-end development, and my main goal is to become a full-stack developer in the future! ⭐
+<br>
 I'm a creative and curious person, so i try to bring that to my codes! 🩷 </p>
 
 
