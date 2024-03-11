@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=ef95ae&fontColor=ef95ae&height=70&section=header"/>
-<h1 align="center"> <img src="https://media.giphy.com/media/eIaM3OINljARvObLW7/giphy.gif" width="50"> Hello, there! I'm Eduarda!</h1>
+<h1 align="center"> <img src="https://media.giphy.com/media/kBZ212yGzFaxgkSIKW/giphy.gif" width="50"> Hello, there! I'm Eduarda!</h1>
 <p align="left">
 <img align="right" alt="gif divertido" width="210" src="https://i.pinimg.com/originals/bf/5a/74/bf5a7484d8584ef015d726ea51509be7.gif">
 I'm a programming student and I'm majoring in Analysis and Systems Development. <br>My focus is on back-end development, and my main goal is <br>to become a full-stack developer in the future! ⭐
