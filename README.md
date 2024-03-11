@@ -6,6 +6,7 @@ I'm a programming student and I'm majoring in Analysis and Systems Development. 
 
 
 <div align="left">
+    
 ##   Connect with me:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dudsamon)
