@@ -4,6 +4,10 @@
 <img align="right" alt="minha imagem" width="180" src="https://i.pinimg.com/originals/5e/9e/55/5e9e55d066a382dbffe2e7551ed383dc.gif">
 I'm a programming student and I'm majoring in Analysis and Systems Development. <br>My focus is on back-end development, and my main goal is to become a full-stack developer in the future! ⭐ 
 
+
+
+
+
 ##   Connect with me:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dudsamon)
