@@ -1,19 +1,17 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=ef95ae&fontColor=ef95ae&height=70&section=header"/>
 <h1 align=center"> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Hello, there! I'm Eduarda!</h1>
 <p align="left">
-<img align="right" alt="minha imagem" width="210" src="https://64.media.tumblr.com/81051bc1c3d1a0d5ae57e290b6613ee9/590918961dd39a53-21/s400x600/1db57c1029c25e15f0a9f0ca5fec628feef1022b.gifv">
-I'm a programming student and I'm majoring in Analysis and Systems Development. <br>My focus is on back-end development, and my main goal is to become a full-stack developer in the future! ⭐ </p>
+<img align="right" alt="minha imagem" width="210" src="https://i.pinimg.com/originals/bf/5a/74/bf5a7484d8584ef015d726ea51509be7.gif">
+I'm a programming student and I'm majoring in Analysis and Systems Development. <br>My focus is on back-end development, and my main goal is to become a full-stack developer in the future! ⭐
+I'm a creative and curious person, so i try to bring that to my codes! 🩷 </p>
 
 
-<div align="left">
-    
 ##   Connect with me:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dudsamon)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eduardaamon)
 [![Discord](https://img.shields.io/badge/Discord-%23333.svg?logo=discord&logoColor=white)](http://discord.com/users/dudaamon) 
 [![E-mail](https://img.shields.io/badge/Gmail-%23DD0031.svg?&logo=gmail&logoColor=white)](mailto:eduardaamon16@gmail.com)
-</div>
 
 ##   Language and Tools:
 <div align="left">
