@@ -5,8 +5,8 @@
 I'm a programming student and I'm majoring in Analysis and Systems Development. <br>My focus is on front-end development, and my main goal is <br>to become a full-stack developer in the future! ⭐
     
 I'm a creative and curious person, so i try to bring that to my codes!🩷 </p>
-
 <br>
+
 ##   Connect with me:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dudsamon)
