@@ -15,17 +15,20 @@ I'm a creative and curious person, so i try to bring that to my codes!🩷 </p>
 [![E-mail](https://img.shields.io/badge/Gmail-%23DD0031.svg?&logo=gmail&logoColor=white)](mailto:eduardaamon16@gmail.com)
 
 ##   Language and Tools:
-<div align="left">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,ts,react,html,css,tailwind,postgres,mongodb,mysql,git,express,py" />
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,nodejs,ts,react,html,css,py,postgres,mongodb,sqlserver,azure,git" />
+  </a>
+</p>
 
 
 ###
 
 
 <div align="center">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=dudaamon&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&locale=en&hide_border=false&show_owner=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dudaamon&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+    ![dudaamon's Stats](https://github-readme-stats.vercel.app/api?username=dudaamon&theme=dracula&show_icons=true&hide_border=false&count_private=true)
+    ![dudaamon's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dudaamon&theme=dracula&show_icons=true&hide_border=false&layout=compact)
+</div>
 
 <div>
     <img src="https://capsule-render.vercel.app/api?type=Waving&color=ef95ae&fontColor=ef95ae&height=80&section=footer&animation=fadeIn" />
