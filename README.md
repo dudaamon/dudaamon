@@ -17,7 +17,7 @@ I'm a creative and curious person, so i try to bring that to my codes!🩷 </p>
 
 ##   Language and Tools:
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,nodejs,ts,angular,html,css,py,postgres,mongodb,git,azure" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,nodejs,html,css,py,postgres,mongodb,git,azure" />
 </div>
 
 ###
